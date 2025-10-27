@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm An Nguyen! 👋
 
-<!--
-**songgiaan/songgiaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master's Student in Data Science & Analytics**  
+Currently pursuing my master's degree, I'm passionate about discovering insights from data and leveraging my analytic skills to solve real-world problems.
 
-Here are some ideas to get you started:
+🔍 **Actively seeking internship or job opportunities**  
+I'm looking for roles as a **Data Scientist, Data Analyst, or Business Analyst** to further develop my skills and make an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Programming:** Python, R
+- **Machine Learning:** Building and evaluating predictive models
+- **Analytics:** Data wrangling, visualization, and statistical analysis
+- *(Always learning and improving!)*
+
+## 🚀 Projects
+Updating soon.
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/annguyen02)
+
+---
+
+*Open to collaboration and eager to connect with fellow data enthusiasts!*
