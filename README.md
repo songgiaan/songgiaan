@@ -7,10 +7,9 @@ Currently pursuing my master's degree, I'm passionate about discovering insights
 I'm looking for roles as a **Data Scientist, Data Analyst, or Business Analyst** to further develop my skills and make an impact.
 
 ## 🛠️ Skills
-- **Programming:** Python, R
+- **Programming:** Python(Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), R, SQL, SAS, Visual Studio Code.
 - **Machine Learning:** Building and evaluating predictive models
-- **Analytics:** Data wrangling, visualization, and statistical analysis
-- *(Always learning and improving!)*
+- **Software Tools:** Microsoft Office Suite (Word, Excel, Teams, PowerPoint, Power BI, Project, SharePoint, Azure)
 
 ## 🚀 Projects
 Updating soon.
