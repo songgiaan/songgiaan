@@ -12,7 +12,7 @@ I'm looking for roles as a **Data Scientist, Data Analyst, or Business Analyst**
 - **Software Tools:** Microsoft Office Suite (Word, Excel, Teams, PowerPoint, Power BI, Project, SharePoint, Azure)
 
 ## 🚀 Projects
-Updating soon.
+- *Updating soon.* Will Your Job Survive the Age of AI? Analyzing Skill Patterns Behind Automation Risk.
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/annguyen02)
